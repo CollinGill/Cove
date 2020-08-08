@@ -37,7 +37,7 @@ desc strlen(str string)
 		len++;
 	}
 
-return len;
+	return len;
 }
 main()
 {
@@ -60,10 +60,38 @@ desc even_to_hundred()
 			print(i);
 		}
 	}
+	return void;
 }
 main()
 {
 	even_to_hundred();
 }
 
+```
+## Switches and Bitches
+```
+var fish = "human";
+
+desc plz(str fish)
+{
+	switch fish
+	{
+		case “dinosaur”
+		{
+			print(fish + “ is not a fish.”);
+			break;
+		}
+		default
+		{
+			print(fish + “ may be fish, further research requireD”);
+			break;
+		}
+	}
+
+	return void;
+}
+main()
+{
+	plz(fish);
+}
 ```
