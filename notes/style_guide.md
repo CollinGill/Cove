@@ -83,7 +83,7 @@ desc plz(str fish)
 		}
 		default
 		{
-			print(fish + “ may be fish, further research requireD”);
+			print(fish + “ may be fish, further research required”);
 			break;
 		}
 	}
