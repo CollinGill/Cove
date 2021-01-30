@@ -1,0 +1,3 @@
+/home/collin/cove/build/CMakeFiles/rebuild_cache.dir
+/home/collin/cove/build/CMakeFiles/edit_cache.dir
+/home/collin/cove/build/CMakeFiles/out.dir
